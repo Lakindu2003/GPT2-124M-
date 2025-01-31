@@ -10,5 +10,4 @@
 - Pretraining model outputs.csv: Contain the model ouptuts recorded throughout pretraining. The first column highlights the training step and the second column indicates the sample number within that training step.
 - outputs.csv: Model outputs after pretraining.
 - log.txt: Contains the change in training loss, validation loss and hellaswag accuracy score with training steps.
-- pretrained models: Contains model checkpoints. The training step is indicated in the file name.
 
