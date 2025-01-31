@@ -3,6 +3,10 @@
 - Completed: The model has been implemented and pretrained using 10B Tokens from fineweb-edu.
 - Main reference: https://www.youtube.com/watch?v=l8pRSuU81PU&t=2760s
 
+### Releases
+#### pretrained_custom_gpt2_124M
+- model_19072.pt: Contains the pretrained model 
+
 ### Files
 - train_gpt2.py: GPT2 implementation and training/validation loop.
 - Every single important implementation detail is explained in the code as comments.
